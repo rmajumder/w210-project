@@ -1,0 +1,5 @@
+capsenv/
+creds*
+twtdata/
+data2/
+.ipynb_checkpoints
